@@ -1,0 +1,3 @@
+<p> 
+<img src="imagen.gif" align="right">Texto tan extenso como queramos que cubrirá la parte izquierda de la imagen. Sigo poniendo texto para que se vea el efecto, Bla bla bla bla bla bla bla... 
+</p>
